@@ -1,0 +1,70 @@
+{
+  "resources": [
+    "output.ogg",
+    "output.m4a",
+    "output.mp3",
+    "output.ac3"
+  ],
+  "spritemap": {
+    "baby_sound": {
+      "start": 0,
+      "end": 0.6,
+      "loop": false
+    },
+    "barrier_clock": {
+      "start": 2,
+      "end": 5.750022675736961,
+      "loop": false
+    },
+    "barrier_explode": {
+      "start": 7,
+      "end": 7.636643990929706,
+      "loop": false
+    },
+    "confetti": {
+      "start": 9,
+      "end": 9.426167800453515,
+      "loop": false
+    },
+    "death_female": {
+      "start": 11,
+      "end": 11.319501133786847,
+      "loop": false
+    },
+    "death_skull": {
+      "start": 13,
+      "end": 15.565034013605443,
+      "loop": false
+    },
+    "dollar_pick": {
+      "start": 17,
+      "end": 18.27326530612245,
+      "loop": false
+    },
+    "health_pick": {
+      "start": 20,
+      "end": 20.673378684807258,
+      "loop": false
+    },
+    "heaven_gate": {
+      "start": 22,
+      "end": 25.01419501133787,
+      "loop": false
+    },
+    "morph_older": {
+      "start": 27,
+      "end": 27.443514739229023,
+      "loop": false
+    },
+    "morph_younger": {
+      "start": 29,
+      "end": 29.443514739229023,
+      "loop": false
+    },
+    "pool_splash": {
+      "start": 31,
+      "end": 31.44263038548753,
+      "loop": false
+    }
+  }
+}

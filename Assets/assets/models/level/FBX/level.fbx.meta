@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: f9bea96bad54d414ba7f2df3f4021edb
+ModelImporter:
+  serializedVersion: 21100
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Barrier
+    second: {fileID: 2100000, guid: 3c2154d107d0b694d83d8cab13ca02ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Barrier_Glass
+    second: {fileID: 2100000, guid: 20ace60599e790d46916fd890d8cc2da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clock_Frame
+    second: {fileID: 2100000, guid: 657f0df48ce67c842835a61c05d5b00b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cream_Body
+    second: {fileID: 2100000, guid: bb091d545544afb4b84f66725713873e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dollar
+    second: {fileID: 2100000, guid: 4af82d17bc4674f4f9356591966c82bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FlagHead1
+    second: {fileID: 2100000, guid: f5d524774be9fe44885ec4b7fc4095a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FlagPlatform_1
+    second: {fileID: 2100000, guid: 6cdb48d5823fca246a3acf03a6f8e021, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FlagRed
+    second: {fileID: 2100000, guid: a67c42441b4b12f4fb8bbf37a5262976, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Full_Map
+    second: {fileID: 2100000, guid: a842fb92a11d9754690b6d2f70f798ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Full_Map_Alpha
+    second: {fileID: 2100000, guid: 667a15b2a723e4347b7b040fb20c8c7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grass_Ground
+    second: {fileID: 2100000, guid: 7ebdcf1fa90695c43a89251a4bf60d77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Green_Pool
+    second: {fileID: 2100000, guid: a43a5b573cb27374fa71c44743eda3fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Green_Ring
+    second: {fileID: 2100000, guid: 1d31e72d4bd2af9498361604a5ed3a0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Heaven_Text
+    second: {fileID: 2100000, guid: d2663b8cd7299d94580978d430edf780, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JumpFloor
+    second: {fileID: 2100000, guid: cf9f294e15676f84abe800742ef06947, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Main body
+    second: {fileID: 2100000, guid: d8ee06ac7a2185a478ec661d5e27f8d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.005
+    second: {fileID: 2100000, guid: 4449cba36a1704a49a794d9ae3ce273b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic black
+    second: {fileID: 2100000, guid: 14e909bed4480984eac90101c9555dab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Purple_Pool_Ground
+    second: {fileID: 2100000, guid: fc67844174f479348a35a3ad4917c6e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Purple_pool
+    second: {fileID: 2100000, guid: 3b3d4bbf2ead74a4993a23feee8da55e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sign
+    second: {fileID: 2100000, guid: 0011eb2379c660d44b71e9d1ba312578, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sign_Arrow
+    second: {fileID: 2100000, guid: 28f9c41755019a34f9ad4a0e316d6205, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skull_Fx_1
+    second: {fileID: 2100000, guid: 86cca27fbf6da9148964c06bcdd431bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skull_Fx_2
+    second: {fileID: 2100000, guid: 6f32d883ede2467449cfbe3ae46bfbfe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skull_Fx_3
+    second: {fileID: 2100000, guid: bb1a34825ceb06e4cb57474c5ca804a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: flagBody
+    second: {fileID: 2100000, guid: ba2f1c22cb7c3fd4e882e53b974d8ec4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: onepointeight_material
+    second: {fileID: 2100000, guid: f566f1ced829c8040ba478e66d0233b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: onepointfour_material
+    second: {fileID: 2100000, guid: 4f24c12bf4e5c684abd3c303c4cafbea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: onepointsix_material
+    second: {fileID: 2100000, guid: 5f8788cdada59574393cb8f04d469ab0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: onepointwo_material
+    second: {fileID: 2100000, guid: 8f1a734fb086e204c8ab8c48a1ea423b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: onepointzero_material
+    second: {fileID: 2100000, guid: 5c0a355a42c49df4889c4a8c19daf2ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: twopointzero_material
+    second: {fileID: 2100000, guid: 418839a53d477154f9b97ae17898f327, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: villainousSkull
+    second: {fileID: 2100000, guid: 047b3a9af28be0541ad450cfca9ab096, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: water_material
+    second: {fileID: 2100000, guid: 2616b0594a730694abbf519d4b10449d, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CFX3_T_AuraRays_1
+    second: {fileID: 2800000, guid: 8f3c2de23b0db47498f663ec9c0ccd6c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Full_Atlas_Map_png
+    second: {fileID: 2800000, guid: 27b11ca1f14ede54abee499b0daef0ca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: arrow_up
+    second: {fileID: 2800000, guid: c38f60dd6479dff4fba5e8f778c1d198, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: brandon-liu-mod9-grass-bliu3
+    second: {fileID: 2800000, guid: 65dd0e54fe717e543a7853441b196bc9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dollar_icon
+    second: {fileID: 2800000, guid: 75ab8d79ceaecc54584d1323c6c686c7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: facewash
+    second: {fileID: 2800000, guid: fcdcbda13d4eca54badba375a66cc88b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nova_red
+    second: {fileID: 2800000, guid: 68156b2c3e239c343b4d347dffa0dd55, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: onepointeight
+    second: {fileID: 2800000, guid: cc148ff0a86f1064dbf5698d065aa491, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: onepointfour
+    second: {fileID: 2800000, guid: df376ae2c75ab76438369182fdf08d41, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: onepointsix
+    second: {fileID: 2800000, guid: 98e80a038c7e18a4cadd38899fcbc05b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: onepointtwo
+    second: {fileID: 2800000, guid: 5a3bb466a5680314c94e8a8718f15ab2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: onepointzero
+    second: {fileID: 2800000, guid: b219bcdac5f78e94b992ed6dea835e6c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: purplewater
+    second: {fileID: 2800000, guid: 69f336be8cef3d540a7c691f1e537d32, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ringgreen
+    second: {fileID: 2800000, guid: b7957d9e143bfdf499c6ff6342e0ddd6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sign_text
+    second: {fileID: 2800000, guid: 2b51a328c444ecc44a7e2fd4296c98e8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: skincare
+    second: {fileID: 2800000, guid: 1fb841c61e7ad2948bdd4eef788eff1d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: skull_texture
+    second: {fileID: 2800000, guid: a15378aebc37e6944a97e08cdc24e5a6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: trail_scifi_red
+    second: {fileID: 2800000, guid: f06425efaf37cab4d8ba200dda8d7e52, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: twopointzero
+    second: {fileID: 2800000, guid: 4805ecb1910fd6d4581dde7755afa286, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: water2
+    second: {fileID: 2800000, guid: 3f2082b0cb80bc34baff21e1c976ae00, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: water_8
+    second: {fileID: 2800000, guid: 98158a4c9fdaddc4cbffceaefdf70ac1, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,186 @@
+fileFormatVersion: 2
+guid: 0b5bac8d0104cca4796bc437a41d996f
+ModelImporter:
+  serializedVersion: 21100
+  internalIDToNameTable:
+  - first:
+      74: -3467084503042205452
+    second: Rig_Female|Female_Die_Object_4_Rig_Female
+  - first:
+      74: -4441340131871464974
+    second: Rig_Female|Female_Idle_Object_4_Rig_Female
+  - first:
+      74: -6371575747097763311
+    second: Rig_Female|Female_Phone_Object_4_Rig_Female
+  - first:
+      74: -3216744223668325409
+    second: Rig_Female|Female_Run_Object_4_Rig_Female
+  - first:
+      74: 6575088428853664425
+    second: Rig_Female|Female_Sit_Loop_Object_4_Rig_Female
+  - first:
+      74: 6668990362003282463
+    second: Rig_Female|Female_Sit_Object_4_Rig_Female
+  - first:
+      74: -7789546353759671881
+    second: Rig_Female|Female_Upstairs_Object_4_Rig_Female
+  - first:
+      74: 4938573641532177450
+    second: Rig_Female|Female_Walk_Object_4_Rig_Female
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: F_Younger_Full_Map
+    second: {fileID: 2100000, guid: fd1b0876be3b0bd4faaccf30a6f039ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Full_Body
+    second: {fileID: 2100000, guid: 356ce02c19fc91a49a55a00e0b782ead, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Female_Full_Map
+    second: {fileID: 2100000, guid: 16e56a8353f0d7f4cab68bc572043bfd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: O_Female_Full_Map
+    second: {fileID: 2100000, guid: 53d819e83873a0f4eb2a23133886a51c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Phone_1
+    second: {fileID: 2100000, guid: cdbc054f201f76445888003c359c8d67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Phone_2
+    second: {fileID: 2100000, guid: 7384b28c00b1a9b42a3028c686c30352, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T_Girl_Full_Map
+    second: {fileID: 2100000, guid: 0003cda1b82305349a348d2c21856d94, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: F_Younger_textures_Map
+    second: {fileID: 2800000, guid: 322cf42e783805948bc64f63ae9e1200, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: M_Female_Texture_Map
+    second: {fileID: 2800000, guid: 5699d91958f0e764791dd4b3964c6102, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: O_Female_Texture_Map
+    second: {fileID: 2800000, guid: dd74a7746fa9051408132034d85b3884, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Girl_Textures_Map
+    second: {fileID: 2800000, guid: 4dbe7174a55236743a8dcae8f21ef382, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: phone
+    second: {fileID: 2800000, guid: ef8d21aa51f83c340a41c1b6206758de, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.03
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.00029999999
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
